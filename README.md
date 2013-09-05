@@ -5,3 +5,6 @@ gantt_calendar_for_edit
 ボタン2発で指定年の祝日を取り込んだカレンダーが作成出来ます。
 
 マークスの1日1ページ手帳「EDITデイリープランナー」に合わせて作成したものですが、他の手帳などでも使えるかも。
+
+使い方などはこちら
+http://syncroot.com/polywog/pw-gantt-calendar-for-edit
